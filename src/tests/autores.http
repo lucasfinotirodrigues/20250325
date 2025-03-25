@@ -1,0 +1,8 @@
+@url = https://obscure-engine-wq6pq6x5rjvc59pw-8080.app.github.dev
+
+POST {{url}}/autores
+Content-Type: application/json
+
+{
+    "nome" : "Patati Patata"
+}

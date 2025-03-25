@@ -1,4 +1,4 @@
-@url = https://ominous-halibut-p7j664949pc77w7-8080.app.github.dev
+@url = https://obscure-engine-wq6pq6x5rjvc59pw-8080.app.github.dev
 
 GET {{url}}/generos
 
